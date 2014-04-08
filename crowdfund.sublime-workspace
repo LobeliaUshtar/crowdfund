@@ -247,14 +247,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/views/layouts/_footer.html.erb",
-			"settings":
-			{
-				"buffer_size": 188,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/RSpec/RSpec.sublime-build",
 	"command_palette":
@@ -292,9 +284,10 @@
 	},
 	"file_history":
 	[
+		"/C/GitHub/crowdfund/.gitignore",
+		"/C/GitHub/crowdfund/app/views/layouts/_footer.html.erb",
 		"/C/GitHub/crowdfund/config/environments/production.rb",
 		"/C/GitHub/crowdfund/Gemfile",
-		"/C/GitHub/crowdfund/.gitignore",
 		"/C/GitHub/crowdfund/furcons.bat",
 		"/C/GitHub/crowdfund/flix.bat",
 		"/C/GitHub/crowdfund/events.bat",
@@ -418,8 +411,7 @@
 		"/C/rails_studio/flix/spec/models/review_spec.rb",
 		"/C/Users/Gabby/Ruby/The Pragmatic Studio/Ruby on Rails Programming/pragstudio-rails-code/pragstudio-rails-code/exercise-solutions/21-one-to-many-models/flix/db/seeds.rb",
 		"/C/rails_studio/flix/db/test.sqlite3",
-		"/C/rails_studio/flix/db/migrate/20140218220250_create_reviews.rb",
-		"/C/rails_studio/flix/spec/features/delete_movie_spec.rb"
+		"/C/rails_studio/flix/db/migrate/20140218220250_create_reviews.rb"
 	],
 	"find":
 	{
@@ -598,35 +590,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/views/layouts/_footer.html.erb",
-					"settings":
-					{
-						"buffer_size": 188,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -769,7 +734,7 @@
 		[
 			[
 				"",
-				"/C/GitHub/furcons/furcons.sublime-project"
+				"/C/GitHub/events/events.sublime-project"
 			]
 		],
 		"width": 380.0
